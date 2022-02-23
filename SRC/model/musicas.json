@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "Titulo": "Valkyrie",
+        "Artista": "ONEUS",
+        "Album": "Light us",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 2,
+        "Titulo": "Twilight",
+        "Artista": "ONEUS",
+        "Album": "Raise us",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 3,
+        "Titulo": "Luna",
+        "Artista": "ONEUS",
+        "Album": "Blood moon",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 4,
+        "Titulo": "Window",
+        "Artista": "ONEUS",
+        "Album": "Blood moon",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 5,
+        "Titulo": "Crazy & Crazy",
+        "Artista": "ONEUS",
+        "Album": "Light us",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 6,
+        "Titulo": "Given-Taken",
+        "Artista": "ENHYPEN",
+        "Album": "BORDER: Day one",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 7,
+        "Titulo": "Flicker",
+        "Artista": "ENHYPEN",
+        "Album": "BORDER: Day one",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 8,
+        "Titulo": "Tamed-Dashed",
+        "Artista": "ENHYPEN",
+        "Album": "DIMENSION: Dilemma",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 9,
+        "Titulo": "Go big or go home",
+        "Artista": "ENHYPEN",
+        "Album": "DIMENSION: Dilemma",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 10,
+        "Titulo": "Drunk-Dazed",
+        "Artista": "ENHYPEN",
+        "Album": "Carnival",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 11,
+        "Titulo": "Fever",
+        "Artista": "ENHYPEN",
+        "Album": "Carnival",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 12,
+        "Titulo": "Mixed up",
+        "Artista": "ENHYPEN",
+        "Album": "Carnival",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 13,
+        "Titulo": "Deja vu",
+        "Artista": "ATEEZ",
+        "Album": "ZERO: Ferver",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 14,
+        "Titulo": "Rocky",
+        "Artista": "ATEEZ",
+        "Album": "ZERO: Ferver",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 15,
+        "Titulo": "Any",
+        "Artista": "Stray Kids",
+        "Album": "ALL IN",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 16,
+        "Titulo": "Pacemaker",
+        "Artista": "Stray Kids",
+        "Album": "ALL IN",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 17,
+        "Titulo": "Phobia",
+        "Artista": "Stray Kids",
+        "Album": "ALL IN",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 18,
+        "Titulo": "TA",
+        "Artista": "Stray Kids",
+        "Album": "ALL IN",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 19,
+        "Titulo": "Blood sweat & tears",
+        "Artista": "BTS",
+        "Album": "Wings",
+        "Genero": "K-pop"
+    },
+    {
+        "id": 20,
+        "Titulo": "Pied piper",
+        "Artista": "BTS",
+        "Album": "Love Yourself: Her",
+        "Genero": "K-pop"
+    }
+]
